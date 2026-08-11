@@ -129,3 +129,8 @@ The dataset also does not contain advertising costs, revenue, or profit, so the 
 ## Data Source
 
 * Marketing A/B Testing Dataset (Kaggle): https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing
+
+## License
+
+The source code in this repository is licensed under the MIT License.
+The dataset remains subject to its original license and terms; see the Data Source section.
