@@ -103,7 +103,8 @@ The analysis uses 10,000 bootstrap and permutation iterations.
 ## Project Structure
 
 ```text
-.
+Marketing-AB-Testing
+│ 
 ├── data
 │   └── raw
 │       └── marketing_AB.csv
